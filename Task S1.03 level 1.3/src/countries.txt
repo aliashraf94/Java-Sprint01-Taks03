@@ -1,0 +1,18 @@
+Spain,Madrid
+France,Paris
+Germany,Berlin
+Italy,Rome
+Portugal,Lisbon
+Norway,Oslo
+Denmark,Copenhagen
+Netherlands,Amsterdam
+Greece,Athens
+Turkey,Ankara
+Mexico,Mexico City
+Venezuela,Caracas
+Pakistan,Islamabad
+India,New Delhi
+Nepal,Kathmandu
+Egypt,Cairo
+Morocco,Rabat
+Japan,Tokyo
